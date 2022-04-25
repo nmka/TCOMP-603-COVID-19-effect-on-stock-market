@@ -1,4 +1,6 @@
 # Final Group Project
+https://github.com/nmka/TCOMP-603-COVID-19-effect-on-stock-market/
+
 This group has Nyamjav jambaljav, Rohit Komal, and Jennifer Isoa as members.
 This project explores the effect of covid-19 on the stock market.
 The following industries were considered:
